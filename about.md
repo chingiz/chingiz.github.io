@@ -1,15 +1,12 @@
 ---
-layout: page
 title: About
+layout: page
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello, I'm Chingiz! I'm a Software and Mobile Developer from Baku, Azerbaijan. Currently I'm styding Computer Science at ADA University (Baku). Besides I do love to create Android applications and discover new things in my field. Learning Django Web Framework, iOS Development and many more things to improve my programming skills. Clap! Clap!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Check out my [Linkedin](http://linkedin.com/in/chingizhuseynzade) and [Github](http://github.com/Chingiz) for more info.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is created with [Jekyll](http://jekyllrb.com/).
+
