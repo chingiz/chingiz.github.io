@@ -4,7 +4,7 @@ layout: post
 ---
 
 # Boxca - Fast File Upload
-Bu [app](https://play.google.com/store/apps/details?id=hundredthirtythree.boxca) sizə istənilən faylınızı file.io upload servisinə yükləməyə kömək edir. App-in əsas funksiyası bitmə müddəyindən asılı olmayaraq linkin yalnız bir dəfə istifadə oluna bilməsidir.
+Bu [app](https://play.google.com/store/apps/details?id=hundredthirtythree.boxca) sizə istənilən faylınızı file.io upload servisinə yükləməyə kömək edir. App-in əsas funksiyası bitmə müddətindən asılı olmayaraq linkin yalnız bir dəfə istifadə oluna bilməsidir.
 
 [https://play.google.com/store/apps/details?id=hundredthirtythree.boxca](https://play.google.com/store/apps/details?id=hundredthirtythree.boxca)
 
