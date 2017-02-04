@@ -35,6 +35,7 @@ public class YourService extends Service {
 Returning **START_NOT_STICKY** means that if the process is killed with no remaining start command code then this service will be stopped, instead of restarting. It's actually usefull when you want to call **onStartCommand** when **AlarmManager** triggers in given time. You can learn more about result codes returned by function on this [link](https://android-developers.googleblog.com/2010/02/service-api-changes-starting-with.html).
 
 After creating service include service to your **AndroidManifest.xml** under application tag.
+
 ```
 <application
             android:allowBackup="true"
