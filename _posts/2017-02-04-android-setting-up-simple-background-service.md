@@ -50,13 +50,13 @@ After creating service include service to your **AndroidManifest.xml** under app
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <service android:name=".MyService"/>
+        <service android:name=".YourService"/>
 </application>
 ```
 
 To launch service go to your **MainActivity** or another class where do you want to run this service.
 ```
-	startService(new Intent(this, MyService.class));
+	startService(new Intent(this, YourService.class));
 ```
 
 ## Setting service up to run in certain time or periodically
@@ -91,7 +91,7 @@ public class YourService extends Service {
                 AlarmManager.RTC_WAKEUP,
                 calendar.getTimeInMillis(),
                 24*60*60*1000,
-                PendingIntent.getService(this, 0, new Intent(this, MyService.class), 0)
+                PendingIntent.getService(this, 0, new Intent(this, YourService.class), 0)
         );
     }
 }
@@ -104,7 +104,7 @@ First of all we need create a class that extends **BroadcastReceiver**. I'm call
 public class AutoStart extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
-        context.startService(new Intent(context, MyService.class));
+        context.startService(new Intent(context, YourService.class));
     }
 }
 ```
