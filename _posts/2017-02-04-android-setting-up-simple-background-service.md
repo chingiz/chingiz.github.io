@@ -11,7 +11,7 @@ In order to start writing Service on Android first of all we need know about the
 
 Let's start with Services.
 
-## What is services and how to code?
+## What is a service and how to code?
 A [Service](https://developer.android.com/reference/android/app/Service.html) is an application component that can perform long-running operations in the background, and it does not provide a user interface. Another application component can start a service, and it continues to run in the background even if the user switches to another application.
 
 To create service we just need to create a class that extends Service.
