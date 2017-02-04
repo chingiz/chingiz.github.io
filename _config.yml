@@ -7,7 +7,6 @@ baseurl: ''
 url: ''
 twitter_username: hchingiz
 github_username: Chingiz
-facebook_username: chingiz.h
 markdown: kramdown
 theme: minima
 gems:
