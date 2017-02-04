@@ -55,6 +55,7 @@ After creating service include service to your **AndroidManifest.xml** under app
 ```
 
 To launch service go to your **MainActivity** or another class where do you want to run this service.
+
 ```
 	startService(new Intent(this, YourService.class));
 ```
