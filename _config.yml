@@ -7,6 +7,8 @@ baseurl: ''
 url: ''
 twitter_username: hchingiz
 github_username: Chingiz
+disqus: chingizh
+comments: true
 markdown: kramdown
 theme: minima
 gems:

@@ -1,5 +1,5 @@
 ---
-title: Android setting up simple background service [tutorial]
+title: Setting up simple background service on Android [tutorial]
 layout: post
 ---
 
