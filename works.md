@@ -1,5 +1,5 @@
 ---
-title: Apps
+title: Works
 layout: page
 permalink: /works/
 ---
