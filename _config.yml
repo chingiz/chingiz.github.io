@@ -8,11 +8,12 @@ url: ''
 twitter_username: hchingiz
 github_username: Chingiz
 disqus: chingizh
-comments: true
+comments: false
 markdown: kramdown
 theme: minima
-gems:
+plugins:
 - jekyll-feed
+- jekyll-admin
 exclude:
 - Gemfile
 - Gemfile.lock
